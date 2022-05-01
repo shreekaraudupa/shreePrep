@@ -35,7 +35,7 @@ Person(1987, "Alex", 5),
 Person(1897, "Jeetu", 12)
 ]
 
-This is a variation of Dutch National Flag algorithm
+This is a variation of Dutch National Flag algorithm. (https://leetcode.com/problems/sort-colors/)
 Categorize data using three pointers in O(n) and without using extra space.
 
  */
