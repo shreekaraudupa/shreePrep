@@ -8,7 +8,7 @@ Persons can be divided into three categories:
 1. KID => Age < 21
 2. ADULT => Age >= 21 && Age < 60
 3. SENIOR => Age >= 60
-Given a list of persons, arrange them in such a way that all SENIOR(s)come first in the list followed by ADULT(s), followed by KID(s).
+Given a list of persons, arrange them in such a way that all SENIOR(s)come first in the list followed by ADULT(s), followed by KID(s) .
 
 Example:
 [
